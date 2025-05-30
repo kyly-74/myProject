@@ -23,11 +23,11 @@
     </div>
     <div class="navbar">
       <a href="Test.php" class="active" style="margin-top: 40px">Chọn Phần Thi</a>
-      <a href="#">Thi Thử A1</a>
-      <a href="#">Thi Thử A2</a>
-      <a href="#">Thi 20 câu Điểm Liệt</a>
-      <a href="#">Thi 50 Câu Điểm Liệt</a>
-      <a href="#">Thi 60 Câu Điểm Liệt</a>
+      <a href="#">Ôn tập A1</a>
+      <a href="#">Ôn tập A2</a>
+      <a href="#">Ôn tập 20 câu Điểm Liệt</a>
+      <a href="#">Ôn tập 50 Câu Điểm Liệt</a>
+      
     </div>
     <h2>BỘ ĐỀ ÔN TẬP THI THỬ BẰNG LÁI XE A1 </h2>
     <div class="exam-container">
