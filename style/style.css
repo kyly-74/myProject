@@ -45,7 +45,7 @@ html, body {
     .navbar {
         background-color: #2c3e50;
         height: 50px;
-        padding-top: 30px;    /* <-- đẩy nội dung xuống 15px */
+        padding-top: 30px;    /*  đẩy nội dung xuống 15px */
         text-align: center;
         
     }
@@ -62,7 +62,7 @@ html, body {
             background-color: #1abc9c;
         }
     h2{
-        width :89%;
+        width :60%;
         color: white;
         background: linear-gradient(135deg, #3b82f6, #10b981);
         border-radius: 3px;
@@ -78,17 +78,16 @@ html, body {
     }
     .button-group{
         text-align: center;
-        width: 90%;
-        height: 70%;
+        width: 60%;
+        height: 50%;
         margin: 0 auto;
         border: 1px solid #ccc;  
     }
-    .center-button {
-        display: block;
-        margin: -17px auto;
-        text-align: center;
-        width: 200px;
-      
+    .center-button button {
+         margin-bottom: 10px;
+         width: 200px;
+         text-align: center;
+         
       }
       button {
         padding: 10px;
@@ -105,12 +104,23 @@ html, body {
         margin: 0 auto;
         align-items: center;
         text-align: center;
-        width: 88%;
+        width: 59%;
         margin-top: 10px;
         padding: 10px;
         border: 1px solid #ccc;
+        color: black
       
       }
+    .cach {
+        margin: 0 auto;
+        align-items: center;
+        text-align: center;
+        width: 59%;
+        margin-top: 10px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        color: black;
+    }
     .footer {
         width: 100%;  
         display: block;
@@ -118,6 +128,8 @@ html, body {
         align-items: center;
         background-color: #2c3e50;
         color: white;
+       
+        margin-top: 40px;
     }
     .footer-content {
        
@@ -155,4 +167,3 @@ html, body {
     .footer-bottom {
         text-align: center;
     }
-
